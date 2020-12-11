@@ -8,7 +8,7 @@
 ###Part 1: Case
 
 
- <img style="float: left" src="case.png"
+ <img style="float: left" src="/case.png"
      alt="casepic">
  
  
