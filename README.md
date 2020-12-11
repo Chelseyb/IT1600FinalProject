@@ -10,3 +10,6 @@
 <img src="Screen Shot 2020-11-20 at 7.20.00 PM.png"
      alt="picture">
 
+body{
+background-color: red;
+}
