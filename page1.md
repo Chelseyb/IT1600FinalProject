@@ -12,8 +12,8 @@
 
  <img style="float: left" src="/case.png" alt="casepic" width=200;>
  
-> * Essentially this is the cozy home for all the other parts of your computer 
-  * It is normally made out of a very durable material like plastic 
+> * Essentially this is the cozy home for all the other parts of your computer
+* It is normally made out of a very durable material like plastic 
 <br>
 
 ### Part 2: Power Supply 
