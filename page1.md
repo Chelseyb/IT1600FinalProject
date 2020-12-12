@@ -30,6 +30,7 @@
 
 
 <img style="float: left" src="/motherboard.png" alt="casepic" width=200;>
+
 > * The motherword is a circut board that all the compoents plug into 
 > * This is often viewed as the most important part of the computer because it allows the other parts to communicate via electrical currents 
  
