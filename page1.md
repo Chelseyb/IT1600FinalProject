@@ -65,16 +65,18 @@
 
 
 ### Part 7: Graphics Card 
+<img style="float: left" src="/graphicscard.png" alt="casepic" width=200;>
+
 > * Last but CERTAINLY not least is your graphics card! This tells your computer what pixels need to light up, when they need to light up and what color they need to be. 
 > * Essentialy this is how you see things on your monitor 
 > * Fun fact! Many people often think a graphics card is a computer on its own
 
-<img style="float: left" src="/graphicscard.png" alt="casepic" width=200;>
  
 
 ### Want to learn more here are some videos to check out (References used)! 
 
 [Video 1](https://www.youtube.com/watch?v=ExxFxD4OSZ0)
+<br> 
 [Video 2](https://www.youtube.com/watch?v=_bVqU4D_MVw)
 
 
