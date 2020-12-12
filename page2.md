@@ -32,4 +32,4 @@
  > * Also it is always a good idea to have virus protection on your computer 
 
 
-[Back to home page](https://github.com/Chelseyb/IT1600FinalProject/edit/main/README.md)
+[Back to home page](https://github.com/Chelseyb/IT1600FinalProject/blob/main/README.md) 
