@@ -63,7 +63,7 @@
 <br>
 
 
-
+ 
 ### Part 7: Graphics Card 
 <img style="float: left" src="/graphicscard.png" alt="casepic" width=200;>
 
