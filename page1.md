@@ -1,15 +1,17 @@
-#Ever Wonder, what in the world is inside my computer? Ever heard a computer terms and been completely confused?
-##If so here here is some help! On this page we will go breifly go over the 7 key parts that make up your computer 
 
-<img src="Screen Shot 2020-11-20 at 7.20.00 PM.png"
+<img src="titlegradient.png"
      alt="picture">
+
+
+#Ever Wonder, "what in the world is inside my computer"? or have you ever heard a computer term and been completely confused? If so here here is some help! On this page we will breifly go over the 7 key parts that make up your computer! 
+
+
 
 
 ###Part 1: Case
 
 
- <img style="float: left" src="/case.png"
-     alt="casepic">
+ <img style="float: left" src="/case.png" alt="casepic" width=100;>
  
  
  
